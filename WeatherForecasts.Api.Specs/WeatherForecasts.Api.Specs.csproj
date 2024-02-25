@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WeatherForecasts.Api\WeatherForecasts.Api.csproj" />
+  </ItemGroup>
+
 </Project>
