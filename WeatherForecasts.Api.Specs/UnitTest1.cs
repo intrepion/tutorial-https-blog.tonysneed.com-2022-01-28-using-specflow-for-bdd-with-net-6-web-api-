@@ -1,4 +1,4 @@
-namespace WeatherForecasts.Api.Specs;
+﻿namespace WeatherForecasts.Api.Specs;
 
 public class UnitTest1
 {
